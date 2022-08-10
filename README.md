@@ -31,7 +31,7 @@ Clone the project
 Go to root folder of the project directory
 
 ```bash
-  cd cli-rph-php
+  cd cli-rpg-php
 ```
 
 Run *composer install* command from your terminal:
